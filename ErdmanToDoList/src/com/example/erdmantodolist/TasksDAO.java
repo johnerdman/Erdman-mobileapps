@@ -39,7 +39,7 @@ import android.database.sqlite.SQLiteDatabase;
 	
 	
 	
-	public Task creatTask(Task t) {
+	public Task createTask(Task t) {
 		ContentValues values = new ContentValues();
 		//Place t data into values object 
 		//Handle boolean values
